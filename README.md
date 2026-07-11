@@ -1,12 +1,12 @@
-# 📊 Insurance Data Analytics Dashboard (Tableau)
+# Insurance Data Analytics Dashboard (Tableau)
 
-## 📌 Project Overview
+## Project Overview
 This project presents an **interactive Insurance Analytics Dashboard** developed using **Tableau**.  
 The dashboard provides insights into **policy distribution, premium amounts, claim behavior, customer demographics, and monthly trends** to support **data-driven decision-making** in the insurance domain.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Analyze the **total number of insurance policies**
 - Track **premium and claim amounts**
 - Understand **claim status distribution**
@@ -16,14 +16,14 @@ The dashboard provides insights into **policy distribution, premium amounts, cla
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Tableau** – Data visualization & dashboard creation  
 - **Calculated Fields** – KPI calculations  
 - **Excel / CSV** – Data source  
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 - **Total Policies:** 10,000  
 - **Total Premium Amount:** ₹5,974,060  
 - **Average Premium Amount:** ₹597  
@@ -32,9 +32,9 @@ The dashboard provides insights into **policy distribution, premium amounts, cla
 
 ---
 
-## 📊 Dashboard Insights
+##  Dashboard Insights
 
-### 🔹 Policy Distribution by Type
+### Policy Distribution by Type
 - Policies categorized into:
   - Travel
   - Health
@@ -46,14 +46,14 @@ The dashboard provides insights into **policy distribution, premium amounts, cla
 
 ---
 
-### 🔹 Claim Amount by Policy Type
+### Claim Amount by Policy Type
 - Travel policies have the **highest total claim amount**
 - Health and Auto policies also show significant claims
 - Helps identify **high-risk policy categories**
 
 ---
 
-### 🔹 Claim Status Analysis
+### Claim Status Analysis
 - Claim status divided into:
   - **Not Claimed**
   - **Pending**
@@ -63,7 +63,7 @@ The dashboard provides insights into **policy distribution, premium amounts, cla
 
 ---
 
-### 🔹 Customer Demographics
+### Customer Demographics
 #### Age Distribution
 - Age groups analyzed:
   - 18–25
@@ -79,13 +79,13 @@ The dashboard provides insights into **policy distribution, premium amounts, cla
 
 ---
 
-### 🔹 Monthly Policy Trend
+### Monthly Policy Trend
 - Monthly analysis of policy count from **January to December**
 - Identifies seasonal patterns and demand fluctuations
 
 ---
 
-## 🔍 Filters & Interactivity
+## Filters & Interactivity
 The dashboard includes interactive filters for:
 - Age  
 - Gender  
@@ -98,7 +98,7 @@ These filters allow users to dynamically explore and customize insights.
 
 ---
 
-## 🚀 Key Learnings
+## Key Learnings
 - Hands-on experience with **insurance domain analytics**
 - Strong understanding of **premium and claim KPIs**
 - Improved skills in **Tableau dashboard design**
@@ -106,7 +106,7 @@ These filters allow users to dynamically explore and customize insights.
 
 ---
 
-## 📌 Future Enhancements
+## Future Enhancements
 - Add **risk analysis by policy type**
 - Include **claim amount forecasting**
 - Identify potential **fraud indicators**
